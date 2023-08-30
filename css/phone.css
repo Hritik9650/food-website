@@ -1,0 +1,34 @@
+
+/* Navigation */
+#navbar{
+    flex-direction: column;
+}
+
+/* Home section */
+#home{
+padding: 3px 30px;
+height: 320px;
+}
+#home p{
+font-size: 13px;
+}
+
+/* services section */
+#services{
+    flex-direction: column;
+}
+
+/* client section */
+#client-section{
+    overflow: hidden;
+}
+
+/* contact us section */
+
+
+/* footer section */
+
+/* Utility section */
+.h-primary{
+    font-size: 30px;
+}
